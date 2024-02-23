@@ -1,4 +1,4 @@
-# projX-la-qemu-instructment
+# projX-la-qemu-instrument
 
 ## 项目名称
 
